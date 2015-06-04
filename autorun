@@ -1,0 +1,2 @@
+./startup/1234_callsystem.sh &
+./startup/12345_rop1.sh &
